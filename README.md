@@ -1,7 +1,7 @@
 # Natural-Language-Processing
 ## Steps for Natural Language Procssing using Python NLTK
 
-1. Tokenization: 
+### 1. Tokenization: 
   - Break a complex sentence into words
   - Understand the importance of each of the words with respect to the sentence
   - Produce a structural description on an input sentence-
