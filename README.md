@@ -20,11 +20,13 @@
   
 ### 4. Get rid of Stopwords
 
-### 5. POS TAGS: Each word in a sentence has a TAG: wether it is a noun, adjective, adverb...etc
+### 5. POS TAGS: 
+  - Each word in a sentence has a TAG: wether it is a noun, adjective, adverb...etc
 
 ### 6. Name Entity Recognition
   - Noun Phrase Identification: extracting all the noun phrases 
   - Phrase Classification: Classification into respective categories such us locations, names..
   - Entity Disambiguation
   
-### 7. Chunking: picking up individual pieces of information and grouping them into bigger pieces: Grouping of tokens
+### 7. Chunking: 
+  - picking up individual pieces of information and grouping them into bigger pieces: Grouping of tokens
